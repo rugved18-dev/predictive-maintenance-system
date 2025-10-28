@@ -1,0 +1,13 @@
+# Virtual Environment
+pm_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Data files (optional, but good practice for large data)
+# This means you won't upload the data itself to GitHub.
+# Just add a note in your README explaining where to download it from.
+data/
